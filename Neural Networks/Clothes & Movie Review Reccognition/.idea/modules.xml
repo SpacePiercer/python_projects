@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AI_FlappyBird/.idea/AI_FlappyBird.iml" filepath="$PROJECT_DIR$/../AI_FlappyBird/.idea/AI_FlappyBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Neural_Network.iml" filepath="$PROJECT_DIR$/.idea/Neural_Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Planet_Simulation/.idea/Planet_Simulation.iml" filepath="$PROJECT_DIR$/../Planet_Simulation/.idea/Planet_Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Snake/.idea/Snake.iml" filepath="$PROJECT_DIR$/../Snake/.idea/Snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TechWithTimProjects/.idea/TechWithTimProjects.iml" filepath="$PROJECT_DIR$/../TechWithTimProjects/.idea/TechWithTimProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pygame_eesentials/.idea/pygame_eesentials.iml" filepath="$PROJECT_DIR$/../pygame_eesentials/.idea/pygame_eesentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_dictionary/.idea/test_dictionary.iml" filepath="$PROJECT_DIR$/../test_dictionary/.idea/test_dictionary.iml" />
+    </modules>
+  </component>
+</project>
