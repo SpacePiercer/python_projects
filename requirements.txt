@@ -1,0 +1,11 @@
+# Python 3.12 (numpy 2.5 needs >=3.12; tensorflow-io supports <3.13).
+# Learning projects -- written against older Keras/TensorFlow, so some may need small API updates on these versions.
+numpy>=2.5.3
+pandas>=3.0.6
+matplotlib>=3.11.2
+scikit-learn>=1.9.1
+tensorflow>=2.21.0
+tensorflow-io>=0.37.1
+keras>=3.15.1
+pygame>=2.6.1
+neat-python>=2.0.0
